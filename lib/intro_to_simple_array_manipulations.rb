@@ -15,6 +15,6 @@ def using_pop(array)
 end 
 
 def pop_with_args(array)
-  array.slice(2, 3)
+  array.pop(2, 3)
 end 
   
